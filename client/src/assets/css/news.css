@@ -1,0 +1,11 @@
+.rcorners1 {
+    border-radius: 3px;
+    background: rgb(209, 125, 15);
+    width: 53px;
+    height: 67px;
+    font-size: xx-large;
+    text-align: center;
+    line-height: 61px;
+    font-weight: 400;
+    color:#fff;
+}
